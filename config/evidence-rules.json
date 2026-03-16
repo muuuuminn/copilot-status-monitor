@@ -1,111 +1,85 @@
 {
+  "rootUrl": "https://docs.github.com/en/copilot",
   "matrixUrl": "https://docs.github.com/en/copilot/reference/copilot-feature-matrix",
-  "featuresUrl": "https://docs.github.com/en/copilot/get-started/features",
-  "rules": [
+  "crawl": {
+    "includePathPrefix": "/en/copilot",
+    "maxPages": 400
+  },
+  "keywords": {
+    "publicPreview": ["public preview", "in public preview", "under preview", "opt into the public preview"],
+    "ga": ["generally available", "general availability", "ga feature", "ga features", "all generally available (ga) github copilot features"],
+    "vscode": ["vs code", "visual studio code", "vscode"]
+  },
+  "features": [
     {
       "featureKey": "next_edit_suggestions",
       "featureName": "Next edit suggestions",
-      "aliases": ["next edit suggestions"],
-      "pages": [
-        {
-          "url": "https://docs.github.com/en/copilot/get-started/features",
-          "matchAny": [
-            "next edit suggestions (public preview)",
-            "next edit suggestions"
-          ],
-          "publicPreviewHints": ["public preview"]
-        },
-        {
-          "url": "https://docs.github.com/en/copilot/concepts/completions/code-suggestions",
-          "matchAny": ["next edit suggestions"],
-          "publicPreviewHints": ["public preview"]
-        },
-        {
-          "url": "https://docs.github.com/en/copilot/reference/metrics-data",
-          "matchAny": ["next edit suggestions"],
-          "gaHints": ["generally available", "ga"]
-        }
+      "aliases": ["next edit suggestions", "next edit suggestion"],
+      "preferredCategories": ["feature_detail", "feature_catalog", "reference"],
+      "specificUrls": [
+        "https://docs.github.com/en/copilot/get-started/features",
+        "https://docs.github.com/en/copilot/concepts/completions/code-suggestions",
+        "https://docs.github.com/en/copilot/reference/metrics-data"
       ]
     },
     {
       "featureKey": "prompt_files",
       "featureName": "Prompt files",
-      "aliases": ["prompt files"],
-      "pages": [
-        {
-          "url": "https://docs.github.com/en/copilot/tutorials/customization-library/prompt-files",
-          "matchAny": ["prompt files"],
-          "publicPreviewHints": ["public preview"]
-        },
-        {
-          "url": "https://docs.github.com/en/enterprise-cloud@latest/copilot/concepts/prompting/response-customization",
-          "matchAny": ["prompt files"],
-          "publicPreviewHints": ["public preview"]
-        }
+      "aliases": ["prompt files", "prompt file"],
+      "preferredCategories": ["feature_detail", "tutorial", "reference"],
+      "specificUrls": [
+        "https://docs.github.com/en/copilot/tutorials/customization-library/prompt-files",
+        "https://docs.github.com/en/copilot/concepts/prompting/response-customization"
       ]
     },
     {
       "featureKey": "agent_mode",
       "featureName": "Agent mode",
       "aliases": ["agent mode"],
-      "pages": [
-        {
-          "url": "https://docs.github.com/en/copilot/reference/metrics-data",
-          "matchAny": ["agent mode"],
-          "gaHints": ["generally available", "ga"]
-        }
+      "preferredCategories": ["feature_detail", "feature_catalog", "reference"],
+      "specificUrls": [
+        "https://docs.github.com/en/copilot/get-started/features",
+        "https://docs.github.com/en/copilot/reference/metrics-data"
       ]
     },
     {
       "featureKey": "chat",
       "featureName": "Chat",
-      "aliases": ["chat", "copilot chat"],
-      "pages": [
-        {
-          "url": "https://docs.github.com/en/copilot/reference/metrics-data",
-          "matchAny": ["copilot chat"],
-          "gaHints": ["generally available", "ga"]
-        }
+      "aliases": ["copilot chat", "chat"],
+      "preferredCategories": ["feature_detail", "feature_catalog", "reference"],
+      "specificUrls": [
+        "https://docs.github.com/en/copilot/get-started/features",
+        "https://docs.github.com/en/copilot/reference/metrics-data"
       ]
     },
     {
       "featureKey": "code_completion",
       "featureName": "Code completion",
-      "aliases": ["code completion", "inline suggestions"],
-      "pages": [
-        {
-          "url": "https://docs.github.com/en/copilot/reference/metrics-data",
-          "matchAny": ["inline suggestions"],
-          "gaHints": ["generally available", "ga"]
-        },
-        {
-          "url": "https://docs.github.com/en/copilot/get-started/features",
-          "matchAny": ["inline suggestions"]
-        }
+      "aliases": ["inline suggestions", "code completion", "code suggestions"],
+      "preferredCategories": ["feature_detail", "feature_catalog", "reference"],
+      "specificUrls": [
+        "https://docs.github.com/en/copilot/get-started/features",
+        "https://docs.github.com/en/copilot/concepts/completions/code-suggestions",
+        "https://docs.github.com/en/copilot/reference/metrics-data"
       ]
     },
     {
       "featureKey": "edit_mode",
       "featureName": "Edit mode",
-      "aliases": ["edit mode", "copilot edits in vs code", "copilot edits"],
-      "pages": [
-        {
-          "url": "https://docs.github.com/en/copilot/reference/metrics-data",
-          "matchAny": ["copilot edits in vs code"],
-          "gaHints": ["generally available", "ga"]
-        }
+      "aliases": ["edit mode", "copilot edits", "copilot edits in vs code"],
+      "preferredCategories": ["feature_detail", "feature_catalog", "reference"],
+      "specificUrls": [
+        "https://docs.github.com/en/copilot/get-started/features",
+        "https://docs.github.com/en/copilot/reference/metrics-data"
       ]
     },
     {
       "featureKey": "copilot_code_review",
       "featureName": "Copilot code review",
-      "aliases": ["copilot code review"],
-      "pages": [
-        {
-          "url": "https://docs.github.com/copilot/using-github-copilot/code-review/using-copilot-code-review",
-          "matchAny": ["opt into the public preview for tools in copilot code review"],
-          "publicPreviewHints": ["public preview"]
-        }
+      "aliases": ["copilot code review", "code review"],
+      "preferredCategories": ["feature_detail", "howto", "reference"],
+      "specificUrls": [
+        "https://docs.github.com/en/copilot/using-github-copilot/code-review/using-copilot-code-review"
       ]
     }
   ]

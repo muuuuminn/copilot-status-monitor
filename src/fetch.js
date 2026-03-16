@@ -1,7 +1,7 @@
 export async function fetchText(url) {
   const response = await fetch(url, {
     headers: {
-      'user-agent': 'copilot-status-monitor/0.1.0'
+      'user-agent': 'copilot-status-monitor/0.2 (+https://github.com)'
     }
   });
   if (!response.ok) {

@@ -1,23 +1,22 @@
-import { promises as fs } from 'node:fs';
+import fs from 'node:fs/promises';
 import path from 'node:path';
 import rules from '../config/evidence-rules.json' with { type: 'json' };
 import { fetchText } from './fetch.js';
-import { diffRecords } from './diff.js';
 import { parseVsCodeMatrix } from './matrix.js';
-import { renderMarkdown } from './report.js';
 import { resolveStatuses } from './resolve.js';
+import { diffPages, diffRecords } from './diff.js';
+import { renderMarkdown } from './report.js';
+import { crawlCopilotPages } from './crawl.js';
 
-const rootDir = process.cwd();
-const snapshotsDir = path.join(rootDir, 'data', 'snapshots');
-const diffsDir = path.join(rootDir, 'data', 'diffs');
-const reportsDir = path.join(rootDir, 'reports');
+const cwd = process.cwd();
+const snapshotsDir = path.join(cwd, 'data', 'snapshots');
+const diffsDir = path.join(cwd, 'data', 'diffs');
+const reportsDir = path.join(cwd, 'reports');
 
 async function ensureDirs() {
-  await Promise.all([
-    fs.mkdir(snapshotsDir, { recursive: true }),
-    fs.mkdir(diffsDir, { recursive: true }),
-    fs.mkdir(reportsDir, { recursive: true })
-  ]);
+  await fs.mkdir(snapshotsDir, { recursive: true });
+  await fs.mkdir(diffsDir, { recursive: true });
+  await fs.mkdir(reportsDir, { recursive: true });
 }
 
 async function readLatestSnapshot() {
@@ -35,21 +34,36 @@ async function main() {
   const iso = now.toISOString();
   const stamp = iso.slice(0, 10);
 
-  const matrixHtml = await fetchText(rules.matrixUrl);
+  const [matrixHtml, pages] = await Promise.all([
+    fetchText(rules.matrixUrl),
+    crawlCopilotPages(rules)
+  ]);
+
   const matrixFeatures = parseVsCodeMatrix(matrixHtml);
-  const records = await resolveStatuses(matrixFeatures, rules);
+  const resolved = await resolveStatuses(matrixFeatures, rules, pages);
 
   const snapshot = {
     generatedAt: iso,
     sources: {
+      rootUrl: rules.rootUrl,
       matrixUrl: rules.matrixUrl,
       rulesFile: 'config/evidence-rules.json'
     },
-    records
+    pageInventory: resolved.pageInventory,
+    crawledPages: pages.map((page) => ({
+      url: page.url,
+      title: page.title,
+      category: page.category,
+      headings: page.headings,
+      text: page.text.slice(0, 2000)
+    })),
+    records: resolved.records
   };
 
   const previous = await readLatestSnapshot();
-  const diff = diffRecords(previous.snapshot?.records ?? [], snapshot.records);
+  const featureChanges = diffRecords(previous.snapshot?.records ?? [], snapshot.records);
+  const pageChanges = diffPages(previous.snapshot?.crawledPages ?? [], snapshot.crawledPages);
+  const diff = { generatedAt: iso, featureChanges, pageChanges };
 
   const snapshotPath = path.join(snapshotsDir, `snapshot_${stamp}.json`);
   const diffPath = path.join(diffsDir, `diff_${stamp}.json`);
