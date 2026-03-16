@@ -1,0 +1,346 @@
+{
+  "generatedAt": "2026-03-16T12:45:43.851Z",
+  "sources": {
+    "matrixUrl": "https://docs.github.com/en/copilot/reference/copilot-feature-matrix",
+    "rulesFile": "config/evidence-rules.json"
+  },
+  "records": [
+    {
+      "featureKey": "byok",
+      "featureName": "BYOK",
+      "surface": "vscode",
+      "matrixSupport": "preview",
+      "matrixSymbol": "P",
+      "releaseStatus": "Public Preview",
+      "confidence": "high",
+      "conflictFlag": false,
+      "notes": [
+        "Matrix shows P for VS Code."
+      ],
+      "evidence": []
+    },
+    {
+      "featureKey": "copilot_code_review",
+      "featureName": "Copilot code review",
+      "surface": "vscode",
+      "matrixSupport": "supported",
+      "matrixSymbol": "✓",
+      "releaseStatus": "Public Preview",
+      "confidence": "medium",
+      "conflictFlag": false,
+      "notes": [
+        "Documentation page contains a public preview indication."
+      ],
+      "evidence": [
+        {
+          "url": "https://docs.github.com/copilot/using-github-copilot/code-review/using-copilot-code-review",
+          "matchedPhrase": "opt into the public preview for tools in copilot code review",
+          "matchedSnippet": "you can accept a single suggestion from Copilot and commit it, or accept a group of suggestions together in a single commit. For more information, see <a href=\"/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request\">Incorpor",
+          "suggestedStatus": "Public Preview",
+          "reason": "Matched \"opt into the public preview for tools in copilot code review\" on page"
+        }
+      ]
+    },
+    {
+      "featureKey": "java_upgrade_agent",
+      "featureName": "Java Upgrade Agent",
+      "surface": "vscode",
+      "matrixSupport": "preview",
+      "matrixSymbol": "P",
+      "releaseStatus": "Public Preview",
+      "confidence": "high",
+      "conflictFlag": false,
+      "notes": [
+        "Matrix shows P for VS Code."
+      ],
+      "evidence": []
+    },
+    {
+      "featureKey": "next_edit_suggestions",
+      "featureName": "Next edit suggestions",
+      "surface": "vscode",
+      "matrixSupport": "supported",
+      "matrixSymbol": "✓",
+      "releaseStatus": "Public Preview",
+      "confidence": "medium",
+      "conflictFlag": true,
+      "notes": [
+        "Documentation page contains a public preview indication.",
+        "Conflicting evidence: another page suggests GA coverage."
+      ],
+      "evidence": [
+        {
+          "url": "https://docs.github.com/en/copilot/get-started/features",
+          "matchedPhrase": "next edit suggestions (public preview)",
+          "matchedSnippet": "ia-hidden=\"true\"></span></a></h3> <p>Autocomplete-style suggestions from Copilot in supported IDEs <em>(Visual Studio Code, Visual Studio, JetBrains IDEs, Azure Data Studio, Xcode, Vim/Neovim, and Eclipse)</em>. See <a href=\"/en/copilot/using-github-copilot/getting-code-suggest",
+          "suggestedStatus": "Public Preview",
+          "reason": "Matched \"next edit suggestions (public preview)\" on page"
+        },
+        {
+          "url": "https://docs.github.com/en/copilot/concepts/completions/code-suggestions",
+          "matchedPhrase": "next edit suggestions",
+          "matchedSnippet": "ggestions in Visual Studio Code<span class=\"heading-link-symbol\" aria-hidden=\"true\"></span></a></h2> <p>Copilot in Visual Studio Code provides two kinds of code suggestions:</p> <ul> <li><strong>Ghost text suggestions</strong> <ul> <li>Copilot offers coding sug",
+          "suggestedStatus": "Public Preview",
+          "reason": "Matched \"next edit suggestions\" on page"
+        },
+        {
+          "url": "https://docs.github.com/en/copilot/reference/metrics-data",
+          "matchedPhrase": "next edit suggestions",
+          "matchedSnippet": "eatures\">Included features<span class=\"heading-link-symbol\" aria-hidden=\"true\"></span></a></h3> <p>The activity report provides visibility into usage of all generally available (GA) GitHub Copilot features in the IDE, on GitHub, in GitHub CLI, and on GitHub Mob",
+          "suggestedStatus": "GA",
+          "reason": "Matched \"next edit suggestions\" on page"
+        }
+      ]
+    },
+    {
+      "featureKey": "prompt_files",
+      "featureName": "Prompt files",
+      "surface": "vscode",
+      "matrixSupport": "supported",
+      "matrixSymbol": "✓",
+      "releaseStatus": "Public Preview",
+      "confidence": "medium",
+      "conflictFlag": false,
+      "notes": [
+        "Documentation page contains a public preview indication."
+      ],
+      "evidence": [
+        {
+          "url": "https://docs.github.com/en/copilot/tutorials/customization-library/prompt-files",
+          "matchedPhrase": "prompt files",
+          "matchedSnippet": "le-site-verification\" content=\"c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY\" data-next-head=\"\"/><title data-next-head=\"\">Prompt files - GitHub Docs</title><meta name=\"description\" content=\"Reusable prompt examples for common development tasks.\" data-nex",
+          "suggestedStatus": "Public Preview",
+          "reason": "Matched \"prompt files\" on page"
+        },
+        {
+          "url": "https://docs.github.com/en/enterprise-cloud@latest/copilot/concepts/prompting/response-customization",
+          "matchedPhrase": "prompt files",
+          "matchedSnippet": "iling-visual \" id=\":Rnsbvdcr76:\" aria-expanded=\"false\" aria-controls=\":Rnsbvdcr76H1:\" class=\"prc-ActionList-ActionListContent-KBb8-\" data-size=\"medium\"><span class=\"prc-ActionList-Spacer-4tR2m\"></span><span class=\"prc-ActionList-ActionListSubContent-gK",
+          "suggestedStatus": "Public Preview",
+          "reason": "Matched \"prompt files\" on page"
+        }
+      ]
+    },
+    {
+      "featureKey": "vision",
+      "featureName": "Vision",
+      "surface": "vscode",
+      "matrixSupport": "preview",
+      "matrixSymbol": "P",
+      "releaseStatus": "Public Preview",
+      "confidence": "high",
+      "conflictFlag": false,
+      "notes": [
+        "Matrix shows P for VS Code."
+      ],
+      "evidence": []
+    },
+    {
+      "featureKey": "agent_mode",
+      "featureName": "Agent mode",
+      "surface": "vscode",
+      "matrixSupport": "supported",
+      "matrixSymbol": "✓",
+      "releaseStatus": "GA",
+      "confidence": "medium",
+      "conflictFlag": false,
+      "notes": [
+        "Supporting documentation indicates GA coverage."
+      ],
+      "evidence": [
+        {
+          "url": "https://docs.github.com/en/copilot/reference/metrics-data",
+          "matchedPhrase": "agent mode",
+          "matchedSnippet": "edby=\":Rrvdcr76:--label \" id=\":Rrvdcr76:\" data-size=\"medium\" aria-current=\"false\" style=\"--subitem-depth:1\" href=\"/en/copilot/tutorials/enhance-agent-mode-with-mcp\"><span class=\"prc-ActionList-Spacer-4tR2m\"></span><span class=\"prc-ActionList-ActionL",
+          "suggestedStatus": "GA",
+          "reason": "Matched \"agent mode\" on page"
+        }
+      ]
+    },
+    {
+      "featureKey": "chat",
+      "featureName": "Chat",
+      "surface": "vscode",
+      "matrixSupport": "supported",
+      "matrixSymbol": "✓",
+      "releaseStatus": "GA",
+      "confidence": "medium",
+      "conflictFlag": false,
+      "notes": [
+        "Supporting documentation indicates GA coverage."
+      ],
+      "evidence": [
+        {
+          "url": "https://docs.github.com/en/copilot/reference/metrics-data",
+          "matchedPhrase": "copilot chat",
+          "matchedSnippet": "h-mcp\"><span class=\"prc-ActionList-Spacer-4tR2m\"></span><span class=\"prc-ActionList-ActionListSubContent-gKsFp\" data-component=\"ActionList.Item--DividerContainer\"><span id=\":R3vnt3utcr76:--label\" class=\"prc-ActionList-ItemLabel-81ohH\">Extend Copilot Ch",
+          "suggestedStatus": "GA",
+          "reason": "Matched \"copilot chat\" on page"
+        }
+      ]
+    },
+    {
+      "featureKey": "code_completion",
+      "featureName": "Code completion",
+      "surface": "vscode",
+      "matrixSupport": "supported",
+      "matrixSymbol": "✓",
+      "releaseStatus": "GA",
+      "confidence": "medium",
+      "conflictFlag": false,
+      "notes": [
+        "Supporting documentation indicates GA coverage."
+      ],
+      "evidence": [
+        {
+          "url": "https://docs.github.com/en/copilot/reference/metrics-data",
+          "matchedPhrase": "inline suggestions",
+          "matchedSnippet": "x\" tabindex=\"0\" aria-labelledby=\":R7vlcr76:--label \" id=\":R7vlcr76:\" data-size=\"medium\" aria-current=\"false\" style=\"--subitem-depth:1\" href=\"/en/copilot/responsible-use/copilot-code-completion\"><span class=\"prc-ActionList-Spacer-4tR2m\"></span><span class=\"p",
+          "suggestedStatus": "GA",
+          "reason": "Matched \"inline suggestions\" on page"
+        },
+        {
+          "url": "https://docs.github.com/en/copilot/get-started/features",
+          "matchedPhrase": "inline suggestions",
+          "matchedSnippet": "x\" tabindex=\"0\" aria-labelledby=\":R7vlcr76:--label \" id=\":R7vlcr76:\" data-size=\"medium\" aria-current=\"false\" style=\"--subitem-depth:1\" href=\"/en/copilot/responsible-use/copilot-code-completion\"><span class=\"prc-ActionList-Spacer-4tR2m\"></span><span class=\"p",
+          "suggestedStatus": "Unknown",
+          "reason": "Matched \"inline suggestions\" on page"
+        }
+      ]
+    },
+    {
+      "featureKey": "edit_mode",
+      "featureName": "Edit mode",
+      "surface": "vscode",
+      "matrixSupport": "supported",
+      "matrixSymbol": "✓",
+      "releaseStatus": "GA",
+      "confidence": "medium",
+      "conflictFlag": false,
+      "notes": [
+        "Supporting documentation indicates GA coverage."
+      ],
+      "evidence": [
+        {
+          "url": "https://docs.github.com/en/copilot/reference/metrics-data",
+          "matchedPhrase": "copilot edits in vs code",
+          "matchedSnippet": "true\"></span></a></h3> <p>The activity report provides visibility into usage of all generally available (GA) GitHub Copilot features in the IDE, on GitHub, in GitHub CLI, and on GitHub Mobile.</p> <h4 id=\"ide-features\" tabindex=\"-1\"><a class=\"heading-link\" href=\"#",
+          "suggestedStatus": "GA",
+          "reason": "Matched \"copilot edits in vs code\" on page"
+        }
+      ]
+    },
+    {
+      "featureKey": "net_upgrade_agent",
+      "featureName": ".NET Upgrade Agent",
+      "surface": "vscode",
+      "matrixSupport": "unsupported",
+      "matrixSymbol": "✗",
+      "releaseStatus": "Unknown",
+      "confidence": "low",
+      "conflictFlag": false,
+      "notes": [
+        "Feature is not supported in VS Code latest release, so GA/Public Preview is not classified for this surface."
+      ],
+      "evidence": []
+    },
+    {
+      "featureKey": "agent_skills",
+      "featureName": "Agent skills",
+      "surface": "vscode",
+      "matrixSupport": "supported",
+      "matrixSymbol": "✓",
+      "releaseStatus": "Unknown",
+      "confidence": "low",
+      "conflictFlag": false,
+      "notes": [
+        "Matrix shows support in VS Code, but no explicit GA/Public Preview evidence was found."
+      ],
+      "evidence": []
+    },
+    {
+      "featureKey": "checkpoints",
+      "featureName": "Checkpoints",
+      "surface": "vscode",
+      "matrixSupport": "supported",
+      "matrixSymbol": "✓",
+      "releaseStatus": "Unknown",
+      "confidence": "low",
+      "conflictFlag": false,
+      "notes": [
+        "Matrix shows support in VS Code, but no explicit GA/Public Preview evidence was found."
+      ],
+      "evidence": []
+    },
+    {
+      "featureKey": "code_referencing",
+      "featureName": "Code referencing",
+      "surface": "vscode",
+      "matrixSupport": "supported",
+      "matrixSymbol": "✓",
+      "releaseStatus": "Unknown",
+      "confidence": "low",
+      "conflictFlag": false,
+      "notes": [
+        "Matrix shows support in VS Code, but no explicit GA/Public Preview evidence was found."
+      ],
+      "evidence": []
+    },
+    {
+      "featureKey": "custom_agents",
+      "featureName": "Custom agents",
+      "surface": "vscode",
+      "matrixSupport": "supported",
+      "matrixSymbol": "✓",
+      "releaseStatus": "Unknown",
+      "confidence": "low",
+      "conflictFlag": false,
+      "notes": [
+        "Matrix shows support in VS Code, but no explicit GA/Public Preview evidence was found."
+      ],
+      "evidence": []
+    },
+    {
+      "featureKey": "custom_instructions",
+      "featureName": "Custom instructions",
+      "surface": "vscode",
+      "matrixSupport": "supported",
+      "matrixSymbol": "✓",
+      "releaseStatus": "Unknown",
+      "confidence": "low",
+      "conflictFlag": false,
+      "notes": [
+        "Matrix shows support in VS Code, but no explicit GA/Public Preview evidence was found."
+      ],
+      "evidence": []
+    },
+    {
+      "featureKey": "mcp",
+      "featureName": "MCP",
+      "surface": "vscode",
+      "matrixSupport": "supported",
+      "matrixSymbol": "✓",
+      "releaseStatus": "Unknown",
+      "confidence": "low",
+      "conflictFlag": false,
+      "notes": [
+        "Matrix shows support in VS Code, but no explicit GA/Public Preview evidence was found."
+      ],
+      "evidence": []
+    },
+    {
+      "featureKey": "workspace_indexing",
+      "featureName": "Workspace indexing",
+      "surface": "vscode",
+      "matrixSupport": "supported",
+      "matrixSymbol": "✓",
+      "releaseStatus": "Unknown",
+      "confidence": "low",
+      "conflictFlag": false,
+      "notes": [
+        "Matrix shows support in VS Code, but no explicit GA/Public Preview evidence was found."
+      ],
+      "evidence": []
+    }
+  ]
+}

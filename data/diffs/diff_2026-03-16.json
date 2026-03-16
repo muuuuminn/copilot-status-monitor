@@ -1,0 +1,110 @@
+[
+  {
+    "featureKey": "net_upgrade_agent",
+    "featureName": ".NET Upgrade Agent",
+    "changeType": "added",
+    "currentValue": "unsupported / Unknown"
+  },
+  {
+    "featureKey": "agent_mode",
+    "featureName": "Agent mode",
+    "changeType": "added",
+    "currentValue": "supported / GA"
+  },
+  {
+    "featureKey": "agent_skills",
+    "featureName": "Agent skills",
+    "changeType": "added",
+    "currentValue": "supported / Unknown"
+  },
+  {
+    "featureKey": "byok",
+    "featureName": "BYOK",
+    "changeType": "added",
+    "currentValue": "preview / Public Preview"
+  },
+  {
+    "featureKey": "chat",
+    "featureName": "Chat",
+    "changeType": "added",
+    "currentValue": "supported / GA"
+  },
+  {
+    "featureKey": "checkpoints",
+    "featureName": "Checkpoints",
+    "changeType": "added",
+    "currentValue": "supported / Unknown"
+  },
+  {
+    "featureKey": "code_completion",
+    "featureName": "Code completion",
+    "changeType": "added",
+    "currentValue": "supported / GA"
+  },
+  {
+    "featureKey": "code_referencing",
+    "featureName": "Code referencing",
+    "changeType": "added",
+    "currentValue": "supported / Unknown"
+  },
+  {
+    "featureKey": "copilot_code_review",
+    "featureName": "Copilot code review",
+    "changeType": "added",
+    "currentValue": "supported / Public Preview"
+  },
+  {
+    "featureKey": "custom_agents",
+    "featureName": "Custom agents",
+    "changeType": "added",
+    "currentValue": "supported / Unknown"
+  },
+  {
+    "featureKey": "custom_instructions",
+    "featureName": "Custom instructions",
+    "changeType": "added",
+    "currentValue": "supported / Unknown"
+  },
+  {
+    "featureKey": "edit_mode",
+    "featureName": "Edit mode",
+    "changeType": "added",
+    "currentValue": "supported / GA"
+  },
+  {
+    "featureKey": "java_upgrade_agent",
+    "featureName": "Java Upgrade Agent",
+    "changeType": "added",
+    "currentValue": "preview / Public Preview"
+  },
+  {
+    "featureKey": "mcp",
+    "featureName": "MCP",
+    "changeType": "added",
+    "currentValue": "supported / Unknown"
+  },
+  {
+    "featureKey": "next_edit_suggestions",
+    "featureName": "Next edit suggestions",
+    "changeType": "added",
+    "currentValue": "supported / Public Preview"
+  },
+  {
+    "featureKey": "prompt_files",
+    "featureName": "Prompt files",
+    "changeType": "added",
+    "currentValue": "supported / Public Preview"
+  },
+  {
+    "featureKey": "vision",
+    "featureName": "Vision",
+    "changeType": "added",
+    "currentValue": "preview / Public Preview"
+  },
+  {
+    "featureKey": "workspace_indexing",
+    "featureName": "Workspace indexing",
+    "changeType": "added",
+    "currentValue": "supported / Unknown"
+  }
+]
