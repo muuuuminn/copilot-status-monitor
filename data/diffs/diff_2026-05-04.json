@@ -1,0 +1,266 @@
+{
+  "generatedAt": "2026-05-04T06:20:29.327Z",
+  "featureChanges": [
+    {
+      "featureKey": "next_edit_suggestions",
+      "featureName": "Next edit suggestions",
+      "changeType": "evidence_changed",
+      "previousValue": "https://docs.github.com/en/copilot/concepts/completions/code-suggestions:Public Preview:10|https://docs.github.com/en/copilot/get-started/features:Public Preview:10|https://docs.github.com/en/copilot/reference/metrics-data:Public Preview:9|https://docs.github.com/en/copilot/reference/metrics-data:GA:9|https://docs.github.com/en/copilot/concepts/tools/ai-tools:Public Preview:6|https://docs.github.com/en/copilot/get-started/plans:Public Preview:6|https://docs.github.com/en/copilot/get-started/quickstart:Unknown:6|https://docs.github.com/en/copilot/get-started/quickstart?tool=eclipse:Unknown:6",
+      "currentValue": "https://docs.github.com/en/copilot/concepts/completions/code-suggestions:Public Preview:10|https://docs.github.com/en/copilot/get-started/features:Public Preview:10|https://docs.github.com/en/copilot/reference/metrics-data:Public Preview:9|https://docs.github.com/en/copilot/reference/metrics-data:GA:9|https://docs.github.com/en/copilot/concepts/tools/ai-tools:Public Preview:6|https://docs.github.com/en/copilot/get-started/plans:Public Preview:6|https://docs.github.com/en/copilot/concepts/billing/usage-based-billing-for-individuals:Unknown:6|https://docs.github.com/en/copilot/concepts/billing/usage-based-billing-for-organizations-and-enterprises:Unknown:6"
+    }
+  ],
+  "pageChanges": [
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/about-copilot-cli",
+      "changeType": "page_removed",
+      "category": "feature_detail",
+      "title": "About GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/billing/usage-based-billing-for-individuals",
+      "changeType": "page_added",
+      "category": "feature_detail",
+      "title": "Usage-based billing for individuals - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/billing/usage-based-billing-for-organizations-and-enterprises",
+      "changeType": "page_added",
+      "category": "feature_detail",
+      "title": "Usage-based billing for organizations and enterprises - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/github-copilot-chat/copilot-chat-in-ides/using-github-copilot-chat-in-your-ide?tool=jetbrains",
+      "changeType": "page_removed",
+      "category": "other",
+      "title": "Asking GitHub Copilot questions in your IDE - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/allowing-tools",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Allowing and denying tool use - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/chronicle",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Using GitHub Copilot CLI session data - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/connecting-vs-code",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Connecting GitHub Copilot CLI to VS Code - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/plugins-finding-installing",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Finding and installing plugins for GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/manage-pull-requests",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Managing pull requests with the /pr command - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/roll-back-changes",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Rolling back changes made during a GitHub Copilot CLI session - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/speed-up-task-completion",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Speeding up task completion with the /fleet command - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/steer-remotely",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Steering a GitHub Copilot CLI session from another device - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli-agents/agentic-code-review",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Requesting a code review with GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli-agents/delegate-tasks-to-cca",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Delegating tasks to GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli-agents/invoke-custom-agents",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Invoking custom agents - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli-agents/overview",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Using GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli-agents/steer-agents",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Steering agents in GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/agentic-code-review",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Requesting a code review with GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/allowing-tools",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Allowing and denying tool use - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/chronicle",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Using GitHub Copilot CLI session data - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/connecting-vs-code",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Connecting GitHub Copilot CLI to VS Code - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/delegate-tasks-to-cca",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Delegating tasks to Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/invoke-custom-agents",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Invoking custom agents - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/manage-pull-requests",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Managing pull requests with the /pr command - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/overview",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Using GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/roll-back-changes",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Rolling back changes made during a GitHub Copilot CLI session - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/speed-up-task-completion",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Speeding up task completion with the /fleet command - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/steer-agents",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Steering agents in GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/steer-remotely",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Steering a GitHub Copilot CLI session from another device - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/manage-and-track-spending/prepare-for-usage-based-billing",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Preparing your organization for usage-based billing - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/manage-and-track-spending/prepare-for-your-move-to-usage-based-billing",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Preparing for your move to usage-based billing - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/use-copilot-agents/cloud-agent/create-a-pr",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Asking GitHub Copilot to create a pull request - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/use-copilot-agents/cloud-agent/start-copilot-sessions",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Starting GitHub Copilot sessions - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/managing-copilot/configure-personal-settings/configuring-github-copilot-in-your-environment",
+      "changeType": "page_removed",
+      "category": "admin",
+      "title": "Configuring GitHub Copilot in your environment - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/copilot-billing/model-multipliers-for-annual-plans",
+      "changeType": "page_added",
+      "category": "reference",
+      "title": "Model multipliers for annual plans staying on request-based billing - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing",
+      "changeType": "page_added",
+      "category": "reference",
+      "title": "Models and pricing for GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference",
+      "changeType": "page_changed",
+      "category": "reference",
+      "title": "GitHub Copilot CLI command reference - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-hooks-reference",
+      "changeType": "page_added",
+      "category": "reference",
+      "title": "GitHub Copilot CLI hooks reference - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/troubleshooting-github-copilot/troubleshooting-issues-with-github-copilot-chat",
+      "changeType": "page_removed",
+      "category": "other",
+      "title": "Troubleshooting common issues with GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/using-github-copilot/copilot-chat/asking-github-copilot-questions-in-github-mobile",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Asking GitHub Copilot questions in GitHub Mobile - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/using-github-copilot/copilot-chat/asking-github-copilot-questions-in-your-ide",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Asking GitHub Copilot questions in your IDE - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/using-github-copilot/copilot-chat/prompt-engineering-for-copilot-chat",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Prompt engineering for GitHub Copilot Chat - GitHub Docs"
+    }
+  ]
+}
