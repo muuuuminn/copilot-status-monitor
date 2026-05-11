@@ -1,0 +1,129 @@
+{
+  "generatedAt": "2026-05-11T06:48:27.074Z",
+  "featureChanges": [
+    {
+      "featureKey": "copilot_code_review",
+      "featureName": "Copilot code review",
+      "changeType": "evidence_changed",
+      "previousValue": "https://docs.github.com/en/copilot/concepts/agents/about-third-party-agents:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/anthropic-claude:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-cloud-agent:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-custom-agents:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/code-review:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/code-review:GA:6|https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-remote-access:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/copilot-memory:Public Preview:6",
+      "currentValue": "https://docs.github.com/en/copilot/concepts/agents/about-third-party-agents:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/anthropic-claude:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-cloud-agent:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-custom-agents:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/code-review:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/code-review:GA:6|https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-enterprise-plugin-standards:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/copilot-memory:Public Preview:6"
+    },
+    {
+      "featureKey": "prompt_files",
+      "featureName": "Prompt files",
+      "changeType": "evidence_changed",
+      "previousValue": "https://docs.github.com/en/copilot/concepts/prompting/response-customization:Public Preview:10|https://docs.github.com/en/copilot/concepts/agents/about-third-party-agents:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/anthropic-claude:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-cloud-agent:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-custom-agents:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/code-review:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/code-review:GA:6|https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-remote-access:Public Preview:6",
+      "currentValue": "https://docs.github.com/en/copilot/concepts/prompting/response-customization:Public Preview:10|https://docs.github.com/en/copilot/concepts/agents/about-third-party-agents:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/anthropic-claude:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-cloud-agent:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-custom-agents:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/code-review:Public Preview:6|https://docs.github.com/en/copilot/concepts/agents/code-review:GA:6|https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-enterprise-plugin-standards:Public Preview:6"
+    }
+  ],
+  "pageChanges": [
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-enterprise-plugin-standards",
+      "changeType": "page_added",
+      "category": "feature_detail",
+      "title": "About enterprise-managed plugin standards for Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-remote-access",
+      "changeType": "page_removed",
+      "category": "feature_detail",
+      "title": "About remote access to GitHub Copilot CLI sessions - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-remote-control",
+      "changeType": "page_added",
+      "category": "feature_detail",
+      "title": "About remote control of GitHub Copilot CLI sessions - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/copilot-cli/rubber-duck",
+      "changeType": "page_added",
+      "category": "feature_detail",
+      "title": "About the rubber duck agent - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/auto-model-selection",
+      "changeType": "page_changed",
+      "category": "feature_detail",
+      "title": "About Copilot auto model selection - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/github-copilot-chat/copilot-chat-in-github-mobile/using-github-copilot-chat-in-github-mobile",
+      "changeType": "page_removed",
+      "category": "other",
+      "title": "Asking GitHub Copilot questions in GitHub Mobile - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/github-copilot-in-the-cli/using-github-copilot-in-the-cli",
+      "changeType": "page_removed",
+      "category": "other",
+      "title": "Using the GitHub CLI Copilot extension - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-agents/configure-enterprise-plugin-standards",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Configuring enterprise plugin standards for Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/steer-remotely",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Steering a GitHub Copilot CLI session from another device - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/customize-cloud-agent/configure-secrets-and-variables",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Configure secrets and variables for Copilot cloud agent - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/customize-cloud-agent/customize-the-agent-environment",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Configure the development environment - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-on-github/set-up-copilot/enable-copilot/set-up-a-dedicated-enterprise-for-copilot-business",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Setting up a dedicated enterprise for GitHub Copilot Business - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/use-copilot-agents/cloud-agent/use-cloud-agent-via-the-api",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Using Copilot cloud agent via the API - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/managing-github-copilot-in-your-organization/managing-policies-and-features-for-copilot-in-your-organization",
+      "changeType": "page_removed",
+      "category": "other",
+      "title": "Managing policies and features for GitHub Copilot in your organization - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/ai-models/supported-models",
+      "changeType": "page_changed",
+      "category": "reference",
+      "title": "Supported AI models in GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference",
+      "changeType": "page_changed",
+      "category": "reference",
+      "title": "GitHub Copilot CLI command reference - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/using-github-copilot/getting-code-suggestions-in-your-ide-with-github-copilot",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Getting code suggestions in your IDE with GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Prompt engineering for GitHub Copilot Chat - GitHub Docs"
+    }
+  ]
+}
