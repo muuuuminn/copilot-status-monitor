@@ -1,0 +1,270 @@
+{
+  "generatedAt": "2026-05-18T07:03:26.154Z",
+  "featureChanges": [],
+  "pageChanges": [
+    {
+      "url": "https://docs.github.com/en/copilot",
+      "changeType": "page_changed",
+      "category": "other",
+      "title": "GitHub Copilot documentation - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/about-github-copilot/subscription-plans-for-github-copilot",
+      "changeType": "page_removed",
+      "category": "other",
+      "title": "Plans for GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot",
+      "changeType": "page_removed",
+      "category": "other",
+      "title": "What is GitHub Copilot? - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-cloud-agent",
+      "changeType": "page_changed",
+      "category": "feature_detail",
+      "title": "About GitHub Copilot cloud agent - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-hooks",
+      "changeType": "page_removed",
+      "category": "feature_detail",
+      "title": "About hooks - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/copilot-memory",
+      "changeType": "page_changed",
+      "category": "feature_detail",
+      "title": "About GitHub Copilot Memory - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/enterprise-management",
+      "changeType": "page_changed",
+      "category": "feature_detail",
+      "title": "Agent management for enterprises - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/github-copilot-app",
+      "changeType": "page_added",
+      "category": "feature_detail",
+      "title": "About the GitHub Copilot app - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/hooks",
+      "changeType": "page_added",
+      "category": "feature_detail",
+      "title": "About hooks for GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/fallback-and-lts-models",
+      "changeType": "page_changed",
+      "category": "feature_detail",
+      "title": "Base and long-term support (LTS) models - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/get-started/features",
+      "changeType": "page_changed",
+      "category": "feature_catalog",
+      "title": "GitHub Copilot features - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/get-started/quickstart?tool=eclipse",
+      "changeType": "page_removed",
+      "category": "feature_catalog",
+      "title": "Quickstart for GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/get-started/quickstart?tool=webui",
+      "changeType": "page_removed",
+      "category": "feature_catalog",
+      "title": "Quickstart for GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/get-started/quickstart?tool=windowsterminal",
+      "changeType": "page_removed",
+      "category": "feature_catalog",
+      "title": "Quickstart for GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/get-started/quickstart?tool=xcode",
+      "changeType": "page_removed",
+      "category": "feature_catalog",
+      "title": "Quickstart for GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/get-started/resources-for-approval",
+      "changeType": "page_changed",
+      "category": "feature_catalog",
+      "title": "Resources for getting approval of GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/github-copilot-chat/copilot-chat-in-github/using-github-copilot-chat-in-githubcom",
+      "changeType": "page_removed",
+      "category": "other",
+      "title": "Asking GitHub Copilot questions in GitHub - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat-in-your-ide",
+      "changeType": "page_removed",
+      "category": "other",
+      "title": "Asking GitHub Copilot questions in your IDE - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-access/grant-access",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Granting users access to GitHub Copilot in your enterprise - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-agents/monitor-agentic-activity",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Monitoring agentic activity in your enterprise - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/review-audit-logs",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Reviewing audit logs for GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/administer-copilot-cli-for-your-enterprise",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Administering Copilot CLI for your enterprise - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/use-hooks",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Using hooks with GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-on-github/set-up-copilot/enable-copilot/set-up-for-enterprise",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Setting up GitHub Copilot for your enterprise - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/github-copilot-app/agent-sessions",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Working with agent sessions in the GitHub Copilot app - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/github-copilot-app/customize-github-copilot-app",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Customizing the GitHub Copilot app - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/github-copilot-app/getting-started",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Getting started with the GitHub Copilot app - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/github-copilot-app/managing-issues-and-pull-requests",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Managing issues and pull requests with the GitHub Copilot app - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/github-copilot-app/using-scheduled-workflows",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Using scheduled workflows in the GitHub Copilot app - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/manage-and-track-spending/prepare-for-usage-based-billing",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Preparing your organization for usage-based billing - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/manage-and-track-spending/prepare-for-your-move-to-usage-based-billing",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Preparing for your move to usage-based billing - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/use-copilot-agents/copilot-memory",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Managing and curating Copilot Memory - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/ai-models/model-hosting",
+      "changeType": "page_changed",
+      "category": "reference",
+      "title": "Hosting of models for GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-hooks-reference",
+      "changeType": "page_removed",
+      "category": "reference",
+      "title": "GitHub Copilot CLI hooks reference - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/copilot-usage-metrics/copilot-usage-metrics",
+      "changeType": "page_changed",
+      "category": "reference",
+      "title": "Data available in Copilot usage metrics - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/copilot-usage-metrics/example-schema",
+      "changeType": "page_changed",
+      "category": "reference",
+      "title": "Example schema for Copilot usage metrics - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/copilot-usage-metrics/team-level-metrics",
+      "changeType": "page_added",
+      "category": "reference",
+      "title": "Team-level Copilot usage metrics - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/hooks-configuration",
+      "changeType": "page_removed",
+      "category": "reference",
+      "title": "Hooks configuration - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/hooks-reference",
+      "changeType": "page_added",
+      "category": "reference",
+      "title": "GitHub Copilot hooks reference - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/responsible-use/copilot-cloud-agent",
+      "changeType": "page_changed",
+      "category": "other",
+      "title": "Responsible use of GitHub Copilot cloud agent on GitHub.com - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/tutorials/roll-out-at-scale/establish-ai-managers",
+      "changeType": "page_changed",
+      "category": "tutorial",
+      "title": "Establishing AI managers in your enterprise - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/tutorials/roll-out-at-scale/govern-for-adoption",
+      "changeType": "page_added",
+      "category": "tutorial",
+      "title": "Governing Copilot to support developer productivity - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/tutorials/roll-out-at-scale/maintain-codebase-standards",
+      "changeType": "page_changed",
+      "category": "tutorial",
+      "title": "Maintaining codebase standards in a GitHub Copilot rollout - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/tutorials/use-an-ai-sme",
+      "changeType": "page_added",
+      "category": "tutorial",
+      "title": "Using Copilot CLI as your AI SME - GitHub Docs"
+    }
+  ]
+}
