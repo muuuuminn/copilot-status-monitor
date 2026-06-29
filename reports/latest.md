@@ -1,6 +1,6 @@
 # GitHub Copilot for VS Code status report
 
-Generated at: 2026-06-22T09:19:09.536Z
+Generated at: 2026-06-29T08:23:25.793Z
 Root source: https://docs.github.com/en/copilot
 Matrix source: https://docs.github.com/en/copilot/reference/copilot-feature-matrix
 Rules file: config/evidence-rules.json
@@ -13,9 +13,9 @@ Crawled pages: 400
 | other | 1 |
 | feature_detail | 61 |
 | feature_catalog | 6 |
-| howto | 210 |
+| howto | 213 |
 | reference | 39 |
-| tutorial | 83 |
+| tutorial | 80 |
 
 ## Current status
 
@@ -42,7 +42,7 @@ Crawled pages: 400
 
 ## Feature diff from previous snapshot
 
-Previous snapshot: snapshot_2026-06-15.json
+Previous snapshot: snapshot_2026-06-22.json
 
 No feature differences detected.
 
@@ -50,28 +50,26 @@ No feature differences detected.
 
 | URL | Change type | Category | Title |
 |---|---|---|---|
-| https://docs.github.com/en/copilot/concepts/agents/github-copilot-app | page_changed | feature_detail | About the GitHub Copilot app - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/billing/budgets-for-usage-based-billing | page_changed | feature_detail | Budgets for usage-based billing - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/mcp-management | page_changed | feature_detail | MCP server usage in your company - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/models/auto-model-selection | page_changed | feature_detail | About Copilot auto model selection - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/policies | page_changed | feature_detail | GitHub Copilot policies for enterprises and organizations - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/usage-limits | page_changed | feature_detail | Usage limits for GitHub Copilot - GitHub Docs |
-| https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-organization/manage-default-models | page_changed | howto | Managing default models - GitHub Docs |
-| https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-mcp-usage/configure-mcp-server-access | page_changed | howto | Configure MCP server access for your organization or enterprise - GitHub Docs |
-| https://docs.github.com/en/copilot/how-tos/cloud-and-local-sandboxes/enabling-or-disabling-cloud-and-local-sandboxes-for-your-organization | page_removed | howto | Enabling or disabling cloud and local sandboxes for GitHub Copilot for your organization - GitHub Docs |
-| https://docs.github.com/en/copilot/how-tos/cloud-and-local-sandboxes/enabling-or-disabling-cloud-sandboxes-for-your-organization | page_added | howto | Enabling or disabling cloud sandboxes for your organization - GitHub Docs |
-| https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/add-mcp-servers | page_changed | howto | Adding MCP servers for GitHub Copilot CLI - GitHub Docs |
-| https://docs.github.com/en/copilot/how-tos/github-copilot-app/customize-github-copilot-app | page_changed | howto | Customizing the GitHub Copilot app - GitHub Docs |
-| https://docs.github.com/en/copilot/how-tos/github-copilot-app/getting-started | page_changed | howto | Getting started with the GitHub Copilot app - GitHub Docs |
-| https://docs.github.com/en/copilot/how-tos/github-copilot-app/using-automations | page_changed | howto | Using automations in the GitHub Copilot app - GitHub Docs |
-| https://docs.github.com/en/copilot/how-tos/manage-and-track-spending/monitor-ai-usage | page_added | howto | Monitoring your GitHub AI Credits usage - GitHub Docs |
-| https://docs.github.com/en/copilot/how-tos/troubleshoot-copilot/troubleshoot-copilot-slowness | page_added | howto | Troubleshooting slow responses from GitHub Copilot - GitHub Docs |
-| https://docs.github.com/en/copilot/reference/policy-conflicts | page_changed | reference | Feature availability when GitHub Copilot policies conflict in organizations - GitHub Docs |
-| https://docs.github.com/en/copilot/reference/supported-surfaces-for-policies | page_added | reference | Supported surfaces for GitHub Copilot policies - GitHub Docs |
-| https://docs.github.com/en/copilot/tutorials/budgets/optimizing-your-budget-configuration | page_changed | tutorial | Optimizing your budget configuration - GitHub Docs |
-| https://docs.github.com/en/copilot/tutorials/explore-a-codebase | page_removed | tutorial | Using GitHub Copilot to explore a codebase - GitHub Docs |
-| https://docs.github.com/en/copilot/tutorials/explore-issues-and-discussions | page_removed | tutorial | Using GitHub Copilot to explore issues and discussions - GitHub Docs |
-| https://docs.github.com/en/copilot/tutorials/roll-out-at-scale/measure-success | page_removed | tutorial | Measuring the success of a GitHub Copilot trial - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/agents/about-plugins | page_added | feature_detail | About GitHub Copilot plugins - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-cli-plugins | page_removed | feature_detail | About plugins for GitHub Copilot CLI - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-agents/create-github-private-repo | page_added | howto | Creating a .github-private repository - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-agents/disable-automatic-commands | page_changed | howto | Disabling automatic command approval in Copilot clients - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-agents/prepare-for-custom-agents | page_changed | howto | Preparing to use custom agents in your enterprise - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-organization/manage-access/revoke-access | page_changed | howto | Revoking access to GitHub Copilot for members of your organization - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/allowing-tools | page_changed | howto | Allowing and denying tool use - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/browse-issues-prs-gists | page_changed | howto | Browsing issues, pull requests, and gists from GitHub Copilot CLI - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/steer-remotely | page_changed | howto | Steering a GitHub Copilot CLI session from another device - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/github-copilot-app/open-with-deep-links | page_added | howto | Using deep links to open the GitHub Copilot app - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/github-copilot-app/use-byok-models | page_added | howto | Using your own LLM models in the GitHub Copilot app - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/troubleshoot-copilot/view-logs | page_changed | howto | Viewing logs for GitHub Copilot in your environment - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/use-copilot-agents/cloud-agent/integrate-cloud-agent-with-jira | page_changed | howto | Integrating Copilot cloud agent with Jira - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/use-copilot-agents/request-a-code-review/use-code-review | page_changed | howto | Using GitHub Copilot code review - GitHub Docs |
+| https://docs.github.com/en/copilot/reference/copilot-allowlist-reference | page_changed | reference | Copilot allowlist reference - GitHub Docs |
+| https://docs.github.com/en/copilot/reference/copilot-usage-metrics/reconciling-usage-metrics | page_changed | reference | Reconciling Copilot usage metrics across dashboards, APIs, and reports - GitHub Docs |
+| https://docs.github.com/en/copilot/reference/customization-cheat-sheet | page_changed | reference | Copilot customization cheat sheet - GitHub Docs |
+| https://docs.github.com/en/copilot/tutorials/roll-out-at-scale/drive-downstream-impact/accelerate-pull-requests | page_removed | tutorial | Accelerating pull requests in your company with GitHub Copilot - GitHub Docs |
+| https://docs.github.com/en/copilot/tutorials/roll-out-at-scale/drive-downstream-impact/increase-test-coverage | page_removed | tutorial | Increasing test coverage in your company with GitHub Copilot - GitHub Docs |
+| https://docs.github.com/en/copilot/tutorials/roll-out-at-scale/drive-downstream-impact/reduce-security-debt | page_removed | tutorial | Reducing security debt in your company with GitHub Copilot - GitHub Docs |
 
 ## Notes
 

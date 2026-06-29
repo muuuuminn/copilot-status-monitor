@@ -1,0 +1,126 @@
+{
+  "generatedAt": "2026-06-29T08:23:25.793Z",
+  "featureChanges": [],
+  "pageChanges": [
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/about-plugins",
+      "changeType": "page_added",
+      "category": "feature_detail",
+      "title": "About GitHub Copilot plugins - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-cli-plugins",
+      "changeType": "page_removed",
+      "category": "feature_detail",
+      "title": "About plugins for GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-agents/create-github-private-repo",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Creating a .github-private repository - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-agents/disable-automatic-commands",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Disabling automatic command approval in Copilot clients - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-agents/prepare-for-custom-agents",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Preparing to use custom agents in your enterprise - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-organization/manage-access/revoke-access",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Revoking access to GitHub Copilot for members of your organization - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/allowing-tools",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Allowing and denying tool use - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/browse-issues-prs-gists",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Browsing issues, pull requests, and gists from GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/steer-remotely",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Steering a GitHub Copilot CLI session from another device - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/github-copilot-app/open-with-deep-links",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Using deep links to open the GitHub Copilot app - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/github-copilot-app/use-byok-models",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Using your own LLM models in the GitHub Copilot app - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/troubleshoot-copilot/view-logs",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Viewing logs for GitHub Copilot in your environment - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/use-copilot-agents/cloud-agent/integrate-cloud-agent-with-jira",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Integrating Copilot cloud agent with Jira - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/use-copilot-agents/request-a-code-review/use-code-review",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Using GitHub Copilot code review - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/copilot-allowlist-reference",
+      "changeType": "page_changed",
+      "category": "reference",
+      "title": "Copilot allowlist reference - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/copilot-usage-metrics/reconciling-usage-metrics",
+      "changeType": "page_changed",
+      "category": "reference",
+      "title": "Reconciling Copilot usage metrics across dashboards, APIs, and reports - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/customization-cheat-sheet",
+      "changeType": "page_changed",
+      "category": "reference",
+      "title": "Copilot customization cheat sheet - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/tutorials/roll-out-at-scale/drive-downstream-impact/accelerate-pull-requests",
+      "changeType": "page_removed",
+      "category": "tutorial",
+      "title": "Accelerating pull requests in your company with GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/tutorials/roll-out-at-scale/drive-downstream-impact/increase-test-coverage",
+      "changeType": "page_removed",
+      "category": "tutorial",
+      "title": "Increasing test coverage in your company with GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/tutorials/roll-out-at-scale/drive-downstream-impact/reduce-security-debt",
+      "changeType": "page_removed",
+      "category": "tutorial",
+      "title": "Reducing security debt in your company with GitHub Copilot - GitHub Docs"
+    }
+  ]
+}
