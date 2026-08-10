@@ -1,0 +1,156 @@
+{
+  "generatedAt": "2026-08-10T04:51:10.766Z",
+  "featureChanges": [],
+  "pageChanges": [
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/learning-about-new-features-and-models",
+      "changeType": "page_changed",
+      "category": "feature_detail",
+      "title": "Learning about new features and models - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/mcp-management",
+      "changeType": "page_changed",
+      "category": "feature_detail",
+      "title": "MCP server usage in your company - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-agents/configure-enterprise-managed-settings",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Configuring enterprise-managed settings - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-mcp-usage/configure-enterprise-allowlist",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Configuring an MCP server allowlist for your enterprise - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-mcp-usage/configure-mcp-server-access",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Configure MCP server access for your organization or enterprise - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-mcp-usage/restrict-based-on-registry",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Restrict MCP server access to a custom registry - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-on-github/set-up-copilot/configure-automatic-review",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Configuring automatic code review by GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-on-github/set-up-copilot/enable-copilot/set-up-for-students",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Access GitHub Copilot for free as a student - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/agent-session-filters",
+      "changeType": "page_removed",
+      "category": "reference",
+      "title": "Available filters for agent sessions - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/agentic-audit-log-events",
+      "changeType": "page_removed",
+      "category": "reference",
+      "title": "Audit log events for agents - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/enterprise-administrators/agent-session-filters",
+      "changeType": "page_added",
+      "category": "reference",
+      "title": "Available filters for agent sessions - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/enterprise-administrators/agentic-audit-log-events",
+      "changeType": "page_added",
+      "category": "reference",
+      "title": "Audit log events for agents - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/enterprise-administrators/enterprise-managed-settings",
+      "changeType": "page_added",
+      "category": "reference",
+      "title": "Enterprise managed settings - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/enterprise-administrators/mcp-private-registry-enforcement",
+      "changeType": "page_added",
+      "category": "reference",
+      "title": "MCP private registry enforcement - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/enterprise-administrators/policy-conflicts",
+      "changeType": "page_added",
+      "category": "reference",
+      "title": "Feature availability when GitHub Copilot policies conflict in organizations - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/enterprise-managed-settings-reference",
+      "changeType": "page_removed",
+      "category": "reference",
+      "title": "Enterprise managed settings reference - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/github-copilot-app-reference/built-in-skills",
+      "changeType": "page_added",
+      "category": "reference",
+      "title": "Built-in skills for the GitHub Copilot app - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/github-copilot-app-reference/repository-configuration",
+      "changeType": "page_added",
+      "category": "reference",
+      "title": "Repository configuration for the GitHub Copilot app - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/github-copilot-app-reference/slash-commands",
+      "changeType": "page_added",
+      "category": "reference",
+      "title": "Slash commands for the GitHub Copilot app - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/mcp-allowlist-enforcement",
+      "changeType": "page_removed",
+      "category": "reference",
+      "title": "MCP allowlist enforcement - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/policy-conflicts",
+      "changeType": "page_removed",
+      "category": "reference",
+      "title": "Feature availability when GitHub Copilot policies conflict in organizations - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/tutorials/cloud-agent/build-guardrails",
+      "changeType": "page_removed",
+      "category": "tutorial",
+      "title": "Building guardrails for GitHub Copilot cloud agent - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/tutorials/cloud-agent/get-the-best-results",
+      "changeType": "page_removed",
+      "category": "tutorial",
+      "title": "Best practices for using GitHub Copilot to work on tasks - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/tutorials/cloud-agent/improve-a-project",
+      "changeType": "page_removed",
+      "category": "tutorial",
+      "title": "Using GitHub Copilot cloud agent to improve a project - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/tutorials/cloud-agent/pilot-cloud-agent",
+      "changeType": "page_removed",
+      "category": "tutorial",
+      "title": "Piloting GitHub Copilot cloud agent in your organization - GitHub Docs"
+    }
+  ]
+}
