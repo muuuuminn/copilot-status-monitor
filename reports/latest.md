@@ -1,6 +1,6 @@
 # GitHub Copilot for VS Code status report
 
-Generated at: 2026-08-10T04:51:10.766Z
+Generated at: 2026-08-17T03:59:30.814Z
 Root source: https://docs.github.com/en/copilot
 Matrix source: https://docs.github.com/en/copilot/reference/copilot-feature-matrix
 Rules file: config/evidence-rules.json
@@ -11,11 +11,11 @@ Crawled pages: 400
 | Category | Pages |
 |---|---:|
 | other | 1 |
-| feature_detail | 69 |
+| feature_detail | 70 |
 | feature_catalog | 6 |
 | howto | 224 |
 | reference | 43 |
-| tutorial | 57 |
+| tutorial | 56 |
 
 ## Current status
 
@@ -42,7 +42,7 @@ Crawled pages: 400
 
 ## Feature diff from previous snapshot
 
-Previous snapshot: snapshot_2026-08-03.json
+Previous snapshot: snapshot_2026-08-10.json
 
 No feature differences detected.
 
@@ -50,31 +50,23 @@ No feature differences detected.
 
 | URL | Change type | Category | Title |
 |---|---|---|---|
-| https://docs.github.com/en/copilot/concepts/learning-about-new-features-and-models | page_changed | feature_detail | Learning about new features and models - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/mcp-management | page_changed | feature_detail | MCP server usage in your company - GitHub Docs |
-| https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-agents/configure-enterprise-managed-settings | page_changed | howto | Configuring enterprise-managed settings - GitHub Docs |
-| https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-mcp-usage/configure-enterprise-allowlist | page_added | howto | Configuring an MCP server allowlist for your enterprise - GitHub Docs |
-| https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-mcp-usage/configure-mcp-server-access | page_removed | howto | Configure MCP server access for your organization or enterprise - GitHub Docs |
-| https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-mcp-usage/restrict-based-on-registry | page_added | howto | Restrict MCP server access to a custom registry - GitHub Docs |
-| https://docs.github.com/en/copilot/how-tos/copilot-on-github/set-up-copilot/configure-automatic-review | page_changed | howto | Configuring automatic code review by GitHub Copilot - GitHub Docs |
-| https://docs.github.com/en/copilot/how-tos/copilot-on-github/set-up-copilot/enable-copilot/set-up-for-students | page_changed | howto | Access GitHub Copilot for free as a student - GitHub Docs |
-| https://docs.github.com/en/copilot/reference/agent-session-filters | page_removed | reference | Available filters for agent sessions - GitHub Docs |
-| https://docs.github.com/en/copilot/reference/agentic-audit-log-events | page_removed | reference | Audit log events for agents - GitHub Docs |
-| https://docs.github.com/en/copilot/reference/enterprise-administrators/agent-session-filters | page_added | reference | Available filters for agent sessions - GitHub Docs |
-| https://docs.github.com/en/copilot/reference/enterprise-administrators/agentic-audit-log-events | page_added | reference | Audit log events for agents - GitHub Docs |
-| https://docs.github.com/en/copilot/reference/enterprise-administrators/enterprise-managed-settings | page_added | reference | Enterprise managed settings - GitHub Docs |
-| https://docs.github.com/en/copilot/reference/enterprise-administrators/mcp-private-registry-enforcement | page_added | reference | MCP private registry enforcement - GitHub Docs |
-| https://docs.github.com/en/copilot/reference/enterprise-administrators/policy-conflicts | page_added | reference | Feature availability when GitHub Copilot policies conflict in organizations - GitHub Docs |
-| https://docs.github.com/en/copilot/reference/enterprise-managed-settings-reference | page_removed | reference | Enterprise managed settings reference - GitHub Docs |
-| https://docs.github.com/en/copilot/reference/github-copilot-app-reference/built-in-skills | page_added | reference | Built-in skills for the GitHub Copilot app - GitHub Docs |
-| https://docs.github.com/en/copilot/reference/github-copilot-app-reference/repository-configuration | page_added | reference | Repository configuration for the GitHub Copilot app - GitHub Docs |
-| https://docs.github.com/en/copilot/reference/github-copilot-app-reference/slash-commands | page_added | reference | Slash commands for the GitHub Copilot app - GitHub Docs |
-| https://docs.github.com/en/copilot/reference/mcp-allowlist-enforcement | page_removed | reference | MCP allowlist enforcement - GitHub Docs |
-| https://docs.github.com/en/copilot/reference/policy-conflicts | page_removed | reference | Feature availability when GitHub Copilot policies conflict in organizations - GitHub Docs |
-| https://docs.github.com/en/copilot/tutorials/cloud-agent/build-guardrails | page_removed | tutorial | Building guardrails for GitHub Copilot cloud agent - GitHub Docs |
-| https://docs.github.com/en/copilot/tutorials/cloud-agent/get-the-best-results | page_removed | tutorial | Best practices for using GitHub Copilot to work on tasks - GitHub Docs |
-| https://docs.github.com/en/copilot/tutorials/cloud-agent/improve-a-project | page_removed | tutorial | Using GitHub Copilot cloud agent to improve a project - GitHub Docs |
-| https://docs.github.com/en/copilot/tutorials/cloud-agent/pilot-cloud-agent | page_removed | tutorial | Piloting GitHub Copilot cloud agent in your organization - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/understanding-local-sandboxing | page_added | feature_detail | Understanding filesystem policies for local sandboxing in GitHub Copilot CLI - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/copilot-usage-metrics/copilot-metrics | page_changed | feature_detail | GitHub Copilot usage metrics - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/administer-copilot/view-code-generation | page_changed | howto | Viewing the code generation dashboard - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/administer-copilot/view-impact-dashboard | page_changed | howto | Viewing the Copilot impact dashboard - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/administer-copilot/view-usage-and-adoption | page_changed | howto | Viewing the Copilot usage metrics dashboard - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/cloud-and-local-sandboxes/configuring-local-sandbox-settings | page_changed | howto | Configuring local sandbox settings - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/cloud-and-local-sandboxes/using-local-sandboxing | page_changed | howto | Using local sandboxing - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-on-github/set-up-copilot/enable-copilot/set-up-a-dedicated-enterprise-for-copilot-business | page_changed | howto | Setting up an enterprise for GitHub Copilot Business only - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/use-copilot-agents/request-a-code-review/use-code-review | page_changed | howto | Using GitHub Copilot code review - GitHub Docs |
+| https://docs.github.com/en/copilot/reference/ai-models/supported-models | page_changed | reference | Supported AI models in GitHub Copilot - GitHub Docs |
+| https://docs.github.com/en/copilot/reference/copilot-allowlist-reference | page_changed | reference | Copilot allowlist reference - GitHub Docs |
+| https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference | page_changed | reference | GitHub Copilot CLI command reference - GitHub Docs |
+| https://docs.github.com/en/copilot/reference/copilot-usage-metrics/copilot-usage-metrics | page_changed | reference | Data available in Copilot usage metrics - GitHub Docs |
+| https://docs.github.com/en/copilot/reference/copilot-usage-metrics/interpret-copilot-metrics | page_changed | reference | Interpreting usage and adoption metrics for GitHub Copilot - GitHub Docs |
+| https://docs.github.com/en/copilot/reference/copilot-usage-metrics/lines-of-code-metrics | page_changed | reference | Lines of Code metrics - GitHub Docs |
+| https://docs.github.com/en/copilot/reference/enterprise-administrators/enterprise-managed-settings | page_changed | reference | Enterprise managed settings - GitHub Docs |
+| https://docs.github.com/en/copilot/tutorials/customization-library/custom-agents/cleanup-specialist | page_removed | tutorial | Cleanup specialist - GitHub Docs |
 
 ## Notes
 

@@ -1,0 +1,108 @@
+{
+  "generatedAt": "2026-08-17T03:59:30.814Z",
+  "featureChanges": [],
+  "pageChanges": [
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/copilot-cli/understanding-local-sandboxing",
+      "changeType": "page_added",
+      "category": "feature_detail",
+      "title": "Understanding filesystem policies for local sandboxing in GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/copilot-usage-metrics/copilot-metrics",
+      "changeType": "page_changed",
+      "category": "feature_detail",
+      "title": "GitHub Copilot usage metrics - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/view-code-generation",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Viewing the code generation dashboard - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/view-impact-dashboard",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Viewing the Copilot impact dashboard - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/view-usage-and-adoption",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Viewing the Copilot usage metrics dashboard - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/cloud-and-local-sandboxes/configuring-local-sandbox-settings",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Configuring local sandbox settings - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/cloud-and-local-sandboxes/using-local-sandboxing",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Using local sandboxing - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-on-github/set-up-copilot/enable-copilot/set-up-a-dedicated-enterprise-for-copilot-business",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Setting up an enterprise for GitHub Copilot Business only - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/use-copilot-agents/request-a-code-review/use-code-review",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Using GitHub Copilot code review - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/ai-models/supported-models",
+      "changeType": "page_changed",
+      "category": "reference",
+      "title": "Supported AI models in GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/copilot-allowlist-reference",
+      "changeType": "page_changed",
+      "category": "reference",
+      "title": "Copilot allowlist reference - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference",
+      "changeType": "page_changed",
+      "category": "reference",
+      "title": "GitHub Copilot CLI command reference - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/copilot-usage-metrics/copilot-usage-metrics",
+      "changeType": "page_changed",
+      "category": "reference",
+      "title": "Data available in Copilot usage metrics - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/copilot-usage-metrics/interpret-copilot-metrics",
+      "changeType": "page_changed",
+      "category": "reference",
+      "title": "Interpreting usage and adoption metrics for GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/copilot-usage-metrics/lines-of-code-metrics",
+      "changeType": "page_changed",
+      "category": "reference",
+      "title": "Lines of Code metrics - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/enterprise-administrators/enterprise-managed-settings",
+      "changeType": "page_changed",
+      "category": "reference",
+      "title": "Enterprise managed settings - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/tutorials/customization-library/custom-agents/cleanup-specialist",
+      "changeType": "page_removed",
+      "category": "tutorial",
+      "title": "Cleanup specialist - GitHub Docs"
+    }
+  ]
+}
