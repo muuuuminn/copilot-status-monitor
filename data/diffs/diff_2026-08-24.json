@@ -1,0 +1,174 @@
+{
+  "generatedAt": "2026-08-24T04:02:31.817Z",
+  "featureChanges": [],
+  "pageChanges": [
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/opentelemetry",
+      "changeType": "page_added",
+      "category": "feature_detail",
+      "title": "OpenTelemetry for agent monitoring - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/billing/individual-plans",
+      "changeType": "page_removed",
+      "category": "feature_detail",
+      "title": "About individual GitHub Copilot plans and benefits - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/get-started/enterprise-ai-governance",
+      "changeType": "page_changed",
+      "category": "feature_catalog",
+      "title": "Adopting GitHub Copilot in your enterprise - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/get-started/plans",
+      "changeType": "page_changed",
+      "category": "feature_catalog",
+      "title": "Plans for GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-agents/monitor-agentic-activity",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Monitoring agentic activity in your enterprise - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/view-impact-dashboard",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Viewing the Copilot impact dashboard - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-integrations/integrate-cloud-agent-with-azure-boards",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Integrating Copilot cloud agent with Azure Boards - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-integrations/integrate-cloud-agent-with-jira",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Integrating Copilot cloud agent with Jira - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-integrations/integrate-cloud-agent-with-linear",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Integrating Copilot cloud agent with Linear - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-integrations/integrate-cloud-agent-with-slack",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Integrating Copilot cloud agent with Slack - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-integrations/integrate-cloud-agent-with-teams",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Integrating Copilot cloud agent with Teams - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/auth/authenticate",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Authentication - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/citations",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Citations - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/context-management",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Context clearing and terminal tools - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/mcp",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Using MCP servers with the GitHub Copilot SDK - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/plugin-directories",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Plugin directories - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/hooks/user-prompt-transformed",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "User prompt transformed hook - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/github-copilot-app/agent-sessions",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Working with agent sessions in the GitHub Copilot app - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/github-copilot-app/managing-issues-and-pull-requests",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Managing issues and pull requests with the GitHub Copilot app - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/use-copilot-agents/cloud-agent/integrate-cloud-agent-with-azure-boards",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Integrating Copilot cloud agent with Azure Boards - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/use-copilot-agents/cloud-agent/integrate-cloud-agent-with-jira",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Integrating Copilot cloud agent with Jira - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/use-copilot-agents/cloud-agent/integrate-cloud-agent-with-linear",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Integrating Copilot cloud agent with Linear - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/use-copilot-agents/cloud-agent/integrate-cloud-agent-with-slack",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Integrating Copilot cloud agent with Slack - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/use-copilot-agents/cloud-agent/integrate-cloud-agent-with-teams",
+      "changeType": "page_removed",
+      "category": "howto",
+      "title": "Integrating Copilot cloud agent with Teams - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/copilot-usage-metrics/interpret-copilot-metrics",
+      "changeType": "page_changed",
+      "category": "reference",
+      "title": "Interpreting usage and adoption metrics for GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/tutorials/customization-library/custom-agents/bug-fix-teammate",
+      "changeType": "page_removed",
+      "category": "tutorial",
+      "title": "Bug fix teammate - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/tutorials/customization-library/custom-agents/implementation-planner",
+      "changeType": "page_removed",
+      "category": "tutorial",
+      "title": "Implementation planner - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/tutorials/customization-library/custom-agents/your-first-custom-agent",
+      "changeType": "page_removed",
+      "category": "tutorial",
+      "title": "Your first custom agent - GitHub Docs"
+    }
+  ]
+}
