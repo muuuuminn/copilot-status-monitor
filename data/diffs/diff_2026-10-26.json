@@ -1,0 +1,282 @@
+{
+  "generatedAt": "2026-10-26T08:48:56.348Z",
+  "featureChanges": [],
+  "pageChanges": [
+    {
+      "url": "https://docs.github.com/en/copilot",
+      "changeType": "page_changed",
+      "category": "other",
+      "title": "GitHub Copilot documentation - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/about-agent-skills",
+      "changeType": "page_removed",
+      "category": "feature_detail",
+      "title": "About agent skills - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/about-plugins",
+      "changeType": "page_removed",
+      "category": "feature_detail",
+      "title": "About GitHub Copilot plugins - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-custom-agents",
+      "changeType": "page_removed",
+      "category": "feature_detail",
+      "title": "About custom agents - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/cloud-agent/mcp-and-cloud-agent",
+      "changeType": "page_removed",
+      "category": "feature_detail",
+      "title": "Model Context Protocol (MCP) and GitHub Copilot cloud agent - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-cli-extensions",
+      "changeType": "page_removed",
+      "category": "feature_detail",
+      "title": "About extensions for GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-custom-agents",
+      "changeType": "page_removed",
+      "category": "feature_detail",
+      "title": "About custom agents - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/copilot-cli/comparing-cli-features",
+      "changeType": "page_removed",
+      "category": "feature_detail",
+      "title": "Comparing GitHub Copilot CLI customization features - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/copilot-cli/lsp-servers",
+      "changeType": "page_removed",
+      "category": "feature_detail",
+      "title": "Using LSP servers with GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/copilot-cli/understanding-local-sandboxing",
+      "changeType": "page_removed",
+      "category": "feature_detail",
+      "title": "Understanding filesystem policies for local sandboxing in GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/agents/hooks",
+      "changeType": "page_removed",
+      "category": "feature_detail",
+      "title": "About hooks for GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/billing-and-usage/organizations-and-enterprises/billing",
+      "changeType": "page_changed",
+      "category": "feature_detail",
+      "title": "Usage-based billing for organizations and enterprises - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/context/mcp",
+      "changeType": "page_removed",
+      "category": "feature_detail",
+      "title": "About Model Context Protocol (MCP) - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/customizations/agent-skills",
+      "changeType": "page_added",
+      "category": "feature_detail",
+      "title": "Agent skills - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/customizations/comparing-customizations",
+      "changeType": "page_added",
+      "category": "feature_detail",
+      "title": "Comparing Copilot customization features - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/customizations/custom-agents",
+      "changeType": "page_added",
+      "category": "feature_detail",
+      "title": "Custom agents - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/customizations/extensions",
+      "changeType": "page_added",
+      "category": "feature_detail",
+      "title": "Extensions for GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/customizations/hooks",
+      "changeType": "page_added",
+      "category": "feature_detail",
+      "title": "Hooks for GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/customizations/lsp-servers",
+      "changeType": "page_added",
+      "category": "feature_detail",
+      "title": "Using LSP servers with GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/customizations/mcp",
+      "changeType": "page_added",
+      "category": "feature_detail",
+      "title": "Model Context Protocol (MCP) - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/customizations/plugins",
+      "changeType": "page_added",
+      "category": "feature_detail",
+      "title": "Plugins for GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/enterprise/default-availability",
+      "changeType": "page_changed",
+      "category": "feature_detail",
+      "title": "About default availability of Copilot features and models - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/security-governance-and-network-settings/understanding-local-sandboxing",
+      "changeType": "page_added",
+      "category": "feature_detail",
+      "title": "Understanding filesystem policies for local sandboxing in GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-organization/manage-app-copilot-access",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Manage GitHub Apps that use your organization&#x27;s Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/view-impact-dashboard",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Viewing the Copilot impact dashboard - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/cloud-and-local-sandboxes/configuring-local-sandbox-settings",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Configuring local sandbox settings - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/add-mcp-servers",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Adding MCP servers for GitHub Copilot CLI - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/steer-remotely",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Steering a GitHub Copilot CLI session from another device - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/auth/server-to-server-tokens",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Server-to-server authentication - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/changing-tools",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Changing tools during a session - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/client-info",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Client info - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/context-management",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Context clearing and terminal tools - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/customization-locations",
+      "changeType": "page_added",
+      "category": "howto",
+      "title": "Customization discovery locations - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/hooks",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Working with hooks - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/mcp",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Using MCP servers with the GitHub Copilot SDK - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/session-limits",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Session limits - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/session-persistence",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Session resume and persistence - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/skills",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Custom skills - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/usage-and-billing",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Usage and billing metrics - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/hooks/user-prompt-submitted",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "User prompt submitted hook - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/hooks/user-prompt-transformed",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "User prompt transformed hook - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/observability/opentelemetry",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "OpenTelemetry instrumentation for Copilot SDK - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/setup/azure-managed-identity",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Azure Managed Identity with BYOK - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-sdk/setup/in-process-runtime",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Run the Copilot runtime in process - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/tutorials/customization-library/prompt-files/generate-unit-tests",
+      "changeType": "page_removed",
+      "category": "tutorial",
+      "title": "Generate unit tests - GitHub Docs"
+    }
+  ]
+}

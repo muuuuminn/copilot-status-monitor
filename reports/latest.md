@@ -1,6 +1,6 @@
 # GitHub Copilot for VS Code status report
 
-Generated at: 2026-10-19T08:46:41.445Z
+Generated at: 2026-10-26T08:48:56.348Z
 Root source: https://docs.github.com/en/copilot
 Matrix source: https://docs.github.com/en/copilot/reference/copilot-feature-matrix
 Rules file: config/evidence-rules.json
@@ -11,11 +11,11 @@ Crawled pages: 400
 | Category | Pages |
 |---|---:|
 | other | 1 |
-| feature_detail | 68 |
+| feature_detail | 66 |
 | feature_catalog | 10 |
-| howto | 236 |
+| howto | 239 |
 | reference | 43 |
-| tutorial | 42 |
+| tutorial | 41 |
 
 ## Current status
 
@@ -42,127 +42,60 @@ Crawled pages: 400
 
 ## Feature diff from previous snapshot
 
-Previous snapshot: snapshot_2026-10-05.json
+Previous snapshot: snapshot_2026-10-19.json
 
-| Feature | Change type | Previous | Current |
-|---|---|---|---|
-| Agent mode | evidence_changed | https://docs.github.com/en/copilot/reference/metrics-data:Public Preview:9\|https://docs.github.com/en/copilot/reference/metrics-data:GA:9\|https://docs.github.com/en/copilot/concepts/agents/about-github-agentic-workflows:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/about-third-party-coding-agents:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/agent-apps:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/anthropic-claude:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-automation-rationale-and-approvals:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-cloud-agent:Public Preview:6 | https://docs.github.com/en/copilot/reference/metrics-data:Public Preview:9\|https://docs.github.com/en/copilot/reference/metrics-data:GA:9\|https://docs.github.com/en/copilot/concepts/agent-capabilities/about-agents/about-third-party-coding-agents:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/about-agents/agent-apps:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/about-automation-rationale-and-approvals:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/about-github-agentic-workflows:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/code-review:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/code-review:GA:6 |
-| Chat | evidence_changed | https://docs.github.com/en/copilot/reference/metrics-data:Public Preview:9\|https://docs.github.com/en/copilot/reference/metrics-data:GA:9\|https://docs.github.com/en/copilot/concepts/agents/about-github-agentic-workflows:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/about-third-party-coding-agents:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/agent-apps:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/anthropic-claude:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-automation-rationale-and-approvals:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-cloud-agent:Public Preview:6 | https://docs.github.com/en/copilot/reference/metrics-data:Public Preview:9\|https://docs.github.com/en/copilot/reference/metrics-data:GA:9\|https://docs.github.com/en/copilot/concepts/agent-capabilities/about-agents/about-third-party-coding-agents:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/about-agents/agent-apps:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/about-automation-rationale-and-approvals:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/about-github-agentic-workflows:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/code-review:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/code-review:GA:6 |
-| Code completion | evidence_changed | https://docs.github.com/en/copilot/concepts/completions/code-suggestions:Public Preview:10\|https://docs.github.com/en/copilot/reference/metrics-data:Public Preview:9\|https://docs.github.com/en/copilot/reference/metrics-data:GA:9\|https://docs.github.com/en/copilot/concepts/agents/about-github-agentic-workflows:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/about-third-party-coding-agents:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/agent-apps:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/anthropic-claude:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-automation-rationale-and-approvals:Public Preview:6 | https://docs.github.com/en/copilot/reference/metrics-data:Public Preview:9\|https://docs.github.com/en/copilot/reference/metrics-data:GA:9\|https://docs.github.com/en/copilot/concepts/agent-capabilities/about-agents/about-third-party-coding-agents:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/about-agents/agent-apps:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/about-automation-rationale-and-approvals:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/about-github-agentic-workflows:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/code-review:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/code-review:GA:6 |
-| Code completion | notes_changed | Higher-priority documentation indicates Public Preview (feature_detail). \| Conflicting evidence: another page suggests GA coverage. | Higher-priority documentation indicates Public Preview (reference). \| Conflicting evidence: another page suggests GA coverage. |
-| Copilot code review | evidence_changed | https://docs.github.com/en/copilot/concepts/agents/about-github-agentic-workflows:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/about-third-party-coding-agents:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/agent-apps:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/anthropic-claude:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-automation-rationale-and-approvals:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-cloud-agent:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-custom-agents:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/code-review:Public Preview:6 | https://docs.github.com/en/copilot/concepts/agent-capabilities/about-agents/about-third-party-coding-agents:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/about-agents/agent-apps:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/about-automation-rationale-and-approvals:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/about-github-agentic-workflows:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/code-review:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/code-review:GA:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/computer-use:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/dynamic-workflows:Public Preview:6 |
-| Edit mode | evidence_changed | https://docs.github.com/en/copilot/reference/metrics-data:Public Preview:9\|https://docs.github.com/en/copilot/reference/metrics-data:GA:9\|https://docs.github.com/en/copilot/concepts/tools/ai-tools:Public Preview:6\|https://docs.github.com/en/copilot/reference/copilot-feature-matrix:Public Preview:5\|https://docs.github.com/en/copilot/reference/copilot-usage-metrics/copilot-usage-metrics:Public Preview:5\|https://docs.github.com/en/copilot/reference/copilot-usage-metrics/lines-of-code-metrics:Unknown:5\|https://docs.github.com/en/copilot/how-tos/copilot-in-your-ide/chat-with-copilot/chat-in-ide:Public Preview:2 | https://docs.github.com/en/copilot/reference/metrics-data:Public Preview:9\|https://docs.github.com/en/copilot/reference/metrics-data:GA:9\|https://docs.github.com/en/copilot/concepts/agent-capabilities/choosing-and-delegating-agent-work/ai-tools:Public Preview:6\|https://docs.github.com/en/copilot/reference/copilot-feature-matrix:Public Preview:5\|https://docs.github.com/en/copilot/reference/copilot-usage-metrics/copilot-usage-metrics:Public Preview:5\|https://docs.github.com/en/copilot/reference/copilot-usage-metrics/lines-of-code-metrics:Unknown:5\|https://docs.github.com/en/copilot/how-tos/copilot-in-your-ide/chat-with-copilot/chat-in-ide:Public Preview:2 |
-| Next edit suggestions | evidence_changed | https://docs.github.com/en/copilot/concepts/completions/code-suggestions:Public Preview:10\|https://docs.github.com/en/copilot/reference/metrics-data:Public Preview:9\|https://docs.github.com/en/copilot/reference/metrics-data:GA:9\|https://docs.github.com/en/copilot/concepts/agents/copilot-in-jetbrains:Public Preview:6\|https://docs.github.com/en/copilot/concepts/tools/ai-tools:Public Preview:6\|https://docs.github.com/en/copilot/get-started/plans:Public Preview:6\|https://docs.github.com/en/copilot/concepts/billing-and-usage/individuals/billing:Unknown:6\|https://docs.github.com/en/copilot/concepts/billing-and-usage/organizations-and-enterprises/billing:Unknown:6 | https://docs.github.com/en/copilot/reference/metrics-data:Public Preview:9\|https://docs.github.com/en/copilot/reference/metrics-data:GA:9\|https://docs.github.com/en/copilot/concepts/agent-capabilities/choosing-and-delegating-agent-work/ai-tools:Public Preview:6\|https://docs.github.com/en/copilot/get-started/plans:Public Preview:6\|https://docs.github.com/en/copilot/concepts/billing-and-usage/individuals/billing:Unknown:6\|https://docs.github.com/en/copilot/concepts/billing-and-usage/organizations-and-enterprises/billing:Unknown:6\|https://docs.github.com/en/copilot/concepts/billing-and-usage/organizations-and-enterprises/budgets:Unknown:6\|https://docs.github.com/en/copilot/concepts/billing-and-usage/organizations-and-enterprises/seats-and-billing-cycles:Unknown:6 |
-| Next edit suggestions | notes_changed | Higher-priority documentation indicates Public Preview (feature_detail). \| Conflicting evidence: another page suggests GA coverage. | Higher-priority documentation indicates Public Preview (reference). \| Conflicting evidence: another page suggests GA coverage. |
-| Prompt files | evidence_changed | https://docs.github.com/en/copilot/concepts/prompting/response-customization:Public Preview:10\|https://docs.github.com/en/copilot/concepts/agents/about-github-agentic-workflows:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/about-third-party-coding-agents:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/agent-apps:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/anthropic-claude:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-automation-rationale-and-approvals:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-cloud-agent:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-custom-agents:Public Preview:6 | https://docs.github.com/en/copilot/concepts/agent-capabilities/about-agents/about-third-party-coding-agents:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/about-agents/agent-apps:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/about-automation-rationale-and-approvals:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/about-github-agentic-workflows:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/code-review:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/code-review:GA:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/computer-use:Public Preview:6\|https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/dynamic-workflows:Public Preview:6 |
-| Prompt files | notes_changed | Higher-priority documentation indicates Public Preview (feature_detail). \| Conflicting evidence: another page suggests GA coverage. | Higher-priority documentation indicates Public Preview (feature_detail). \| Conflicting evidence: another page suggests GA coverage. \| No evidence was found on preferred direct pages; status may rely on broader crawl matches or remain Unknown. |
+No feature differences detected.
 
 ## Page diff from previous snapshot
 
 | URL | Change type | Category | Title |
 |---|---|---|---|
 | https://docs.github.com/en/copilot | page_changed | other | GitHub Copilot documentation - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agent-capabilities/about-agents/about-github-copilot-agents | page_added | feature_detail | About GitHub Copilot agents - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agent-capabilities/about-agents/about-third-party-coding-agents | page_added | feature_detail | Third-party coding agents - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agent-capabilities/about-agents/agent-apps | page_added | feature_detail | Agent apps - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/about-automation-rationale-and-approvals | page_added | feature_detail | About rationale, confidence, and approvals for issues - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/about-automations | page_added | feature_detail | Copilot automations - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/about-github-agentic-workflows | page_added | feature_detail | GitHub Agentic Workflows - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/about-remote-control | page_added | feature_detail | Remote control of GitHub Copilot CLI sessions - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/autopilot | page_added | feature_detail | Allowing GitHub Copilot to work autonomously - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/code-review | page_added | feature_detail | GitHub Copilot code review - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/computer-use | page_added | feature_detail | About computer use in GitHub Copilot - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/copilot-cli-in-github-actions | page_added | feature_detail | Copilot CLI in GitHub Actions - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/dynamic-workflows | page_added | feature_detail | Dynamic workflows - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/tool-search | page_added | feature_detail | Loading tools on demand with tool search - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agent-capabilities/choosing-and-delegating-agent-work/about-copilot-integrations | page_added | feature_detail | Copilot integrations - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agent-capabilities/choosing-and-delegating-agent-work/agent-management | page_added | feature_detail | Agent management - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agent-capabilities/choosing-and-delegating-agent-work/ai-tools | page_added | feature_detail | Choosing the right AI tool for your task - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agent-capabilities/choosing-and-delegating-agent-work/delegating-and-parallelizing-work-with-agents | page_added | feature_detail | Delegating and parallelizing work with agents - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agent-capabilities/choosing-and-delegating-agent-work/getting-a-second-opinion | page_added | feature_detail | Getting a second opinion with the rubber duck agent - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agent-capabilities/choosing-and-delegating-agent-work/researching-with-agents | page_added | feature_detail | Researching with agents - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/about-agent-skills | page_changed | feature_detail | About agent skills - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/about-github-agentic-workflows | page_removed | feature_detail | About GitHub Agentic Workflows - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/about-plugins | page_changed | feature_detail | About GitHub Copilot plugins - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/about-third-party-coding-agents | page_removed | feature_detail | About third-party coding agents - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/agent-apps | page_removed | feature_detail | About agent apps - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/anthropic-claude | page_removed | feature_detail | Anthropic Claude - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-automation-rationale-and-approvals | page_removed | feature_detail | About rationale, confidence, and approvals for issues - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-automations | page_removed | feature_detail | About Copilot automations - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-cloud-agent | page_removed | feature_detail | About GitHub Copilot cloud agent - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-custom-agents | page_changed | feature_detail | About custom agents - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/cloud-agent/agent-management | page_removed | feature_detail | About agent management - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/cloud-agent/mcp-and-cloud-agent | page_changed | feature_detail | Model Context Protocol (MCP) and GitHub Copilot cloud agent - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/code-review | page_removed | feature_detail | About GitHub Copilot code review - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/computer-use | page_removed | feature_detail | About computer use in GitHub Copilot - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-cli-extensions | page_changed | feature_detail | About extensions for GitHub Copilot CLI - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-copilot-cli | page_removed | feature_detail | About GitHub Copilot CLI - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-custom-agents | page_changed | feature_detail | About custom agents - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-remote-control | page_removed | feature_detail | About remote control of GitHub Copilot CLI sessions - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/autopilot | page_removed | feature_detail | Allowing GitHub Copilot CLI to work autonomously - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/cancel-and-roll-back | page_removed | feature_detail | Canceling a GitHub Copilot CLI operation and rolling back changes - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/comparing-cli-features | page_changed | feature_detail | Comparing GitHub Copilot CLI customization features - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/context-management | page_removed | feature_detail | Managing context in GitHub Copilot CLI - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/copilot-cli-in-github-actions | page_removed | feature_detail | About using Copilot CLI in GitHub Actions - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/fleet | page_removed | feature_detail | Running tasks in parallel with the /fleet command - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/lsp-servers | page_changed | feature_detail | Using LSP servers with GitHub Copilot CLI - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/research | page_removed | feature_detail | Researching with GitHub Copilot CLI - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/rubber-duck | page_removed | feature_detail | About the rubber duck agent - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/tool-search | page_removed | feature_detail | Loading tools on demand with tool search - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/understanding-local-sandboxing | page_changed | feature_detail | Understanding filesystem policies for local sandboxing in GitHub Copilot CLI - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/copilot-in-jetbrains | page_removed | feature_detail | Using GitHub Copilot in JetBrains IDEs - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/copilot-memory | page_removed | feature_detail | About GitHub Copilot Memory - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/dynamic-workflows | page_removed | feature_detail | Dynamic workflows - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/github-copilot-app | page_removed | feature_detail | About the GitHub Copilot app - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/hooks | page_changed | feature_detail | About hooks for GitHub Copilot - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/agents/openai-codex | page_removed | feature_detail | OpenAI Codex - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/billing-and-usage/copilot-usage-metrics | page_changed | feature_detail | GitHub Copilot usage metrics - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/billing-and-usage/copilot-usage-metrics/copilot-metrics | page_changed | feature_detail | GitHub Copilot usage metrics - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/billing-and-usage/individuals/billing | page_changed | feature_detail | Usage-based billing for individuals - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/billing-and-usage/individuals/usage-limits | page_changed | feature_detail | Usage limits for GitHub Copilot - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/agents/about-agent-skills | page_removed | feature_detail | About agent skills - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/agents/about-plugins | page_removed | feature_detail | About GitHub Copilot plugins - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-custom-agents | page_removed | feature_detail | About custom agents - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/agents/cloud-agent/mcp-and-cloud-agent | page_removed | feature_detail | Model Context Protocol (MCP) and GitHub Copilot cloud agent - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-cli-extensions | page_removed | feature_detail | About extensions for GitHub Copilot CLI - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-custom-agents | page_removed | feature_detail | About custom agents - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/comparing-cli-features | page_removed | feature_detail | Comparing GitHub Copilot CLI customization features - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/lsp-servers | page_removed | feature_detail | Using LSP servers with GitHub Copilot CLI - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/agents/copilot-cli/understanding-local-sandboxing | page_removed | feature_detail | Understanding filesystem policies for local sandboxing in GitHub Copilot CLI - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/agents/hooks | page_removed | feature_detail | About hooks for GitHub Copilot - GitHub Docs |
 | https://docs.github.com/en/copilot/concepts/billing-and-usage/organizations-and-enterprises/billing | page_changed | feature_detail | Usage-based billing for organizations and enterprises - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/billing-and-usage/organizations-and-enterprises/budgets | page_changed | feature_detail | Budgets for usage-based billing - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/billing-and-usage/organizations-and-enterprises/seats-and-billing-cycles | page_changed | feature_detail | GitHub Copilot seats and billing cycles for organizations and enterprises - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/chat | page_removed | feature_detail | About GitHub Copilot Chat - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/completions/code-referencing | page_removed | feature_detail | GitHub Copilot code referencing - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/completions/code-suggestions | page_removed | feature_detail | GitHub Copilot code suggestions in your IDE - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/context/mcp | page_changed | feature_detail | About Model Context Protocol (MCP) - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/context/repository-indexing | page_removed | feature_detail | Indexing repositories for GitHub Copilot - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/context/spaces | page_removed | feature_detail | About GitHub Copilot Spaces - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/copilot-surfaces/copilot-cli | page_added | feature_detail | GitHub Copilot CLI - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/copilot-surfaces/copilot-in-ides | page_added | feature_detail | GitHub Copilot in IDEs - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/copilot-surfaces/copilot-on-github | page_added | feature_detail | GitHub Copilot on GitHub.com - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/copilot-surfaces/github-copilot-app | page_added | feature_detail | GitHub Copilot app - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/enterprise/about-enterprise-accounts-for-copilot-business | page_changed | feature_detail | About enterprise accounts for Copilot Business - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/enterprise/agent-management | page_changed | feature_detail | Agent management for enterprises - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/enterprise/cloud-agent-access | page_changed | feature_detail | Managing access to GitHub Copilot cloud agent - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/context/mcp | page_removed | feature_detail | About Model Context Protocol (MCP) - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/customizations/agent-skills | page_added | feature_detail | Agent skills - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/customizations/comparing-customizations | page_added | feature_detail | Comparing Copilot customization features - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/customizations/custom-agents | page_added | feature_detail | Custom agents - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/customizations/extensions | page_added | feature_detail | Extensions for GitHub Copilot - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/customizations/hooks | page_added | feature_detail | Hooks for GitHub Copilot - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/customizations/lsp-servers | page_added | feature_detail | Using LSP servers with GitHub Copilot CLI - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/customizations/mcp | page_added | feature_detail | Model Context Protocol (MCP) - GitHub Docs |
+| https://docs.github.com/en/copilot/concepts/customizations/plugins | page_added | feature_detail | Plugins for GitHub Copilot - GitHub Docs |
 | https://docs.github.com/en/copilot/concepts/enterprise/default-availability | page_changed | feature_detail | About default availability of Copilot features and models - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/enterprise/fedramp-models | page_changed | feature_detail | FedRAMP-compliant models for GitHub Copilot - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/enterprise/learning-about-new-features-and-models | page_changed | feature_detail | Learning about new features and models - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/enterprise/mcp-management | page_changed | feature_detail | MCP server usage in your company - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/enterprise/opentelemetry | page_changed | feature_detail | OpenTelemetry for agent monitoring - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/enterprise/plugin-standards | page_changed | feature_detail | About enterprise-managed plugin standards - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/enterprise/policies | page_changed | feature_detail | GitHub Copilot policies for enterprises and organizations - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/models/auto-model-selection | page_changed | feature_detail | About Copilot auto model selection - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/models/bring-your-own-key | page_changed | feature_detail | Bring your own key for GitHub Copilot - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/models/fallback-and-lts-models | page_changed | feature_detail | Base and long-term support (LTS) models - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/models/overview | page_changed | feature_detail | Models in GitHub Copilot - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/models/utility-models | page_changed | feature_detail | Utility models - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/prompting-and-context/context-management | page_added | feature_detail | Managing context for GitHub Copilot - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/prompting-and-context/copilot-memory | page_added | feature_detail | About GitHub Copilot Memory - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/prompting-and-context/custom-instructions | page_added | feature_detail | Custom instructions for GitHub Copilot - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/prompting-and-context/prompt-engineering | page_added | feature_detail | Prompt engineering for GitHub Copilot - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/prompting-and-context/prompt-files | page_added | feature_detail | Prompt files for GitHub Copilot - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/prompting-and-context/repository-indexing | page_added | feature_detail | Indexing repositories for GitHub Copilot - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/prompting-and-context/spaces | page_added | feature_detail | About GitHub Copilot Spaces - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/prompting/prompt-engineering | page_removed | feature_detail | Prompt engineering for GitHub Copilot Chat - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/prompting/response-customization | page_removed | feature_detail | About customizing GitHub Copilot responses - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/security-governance-and-network-settings/about-cloud-and-local-sandboxes | page_changed | feature_detail | About cloud and local sandboxes for GitHub Copilot - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/security-governance-and-network-settings/content-exclusion | page_changed | feature_detail | Content exclusion for GitHub Copilot - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/security-governance-and-network-settings/network-settings | page_changed | feature_detail | Network settings for GitHub Copilot - GitHub Docs |
-| https://docs.github.com/en/copilot/concepts/security-governance-and-network-settings/risks-and-mitigations | page_changed | feature_detail | Risks and mitigations for GitHub Copilot cloud agent - GitHub Docs |
-
-Showing first 100 page changes out of 436. Full details are in the JSON diff.
+| https://docs.github.com/en/copilot/concepts/security-governance-and-network-settings/understanding-local-sandboxing | page_added | feature_detail | Understanding filesystem policies for local sandboxing in GitHub Copilot CLI - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-organization/manage-app-copilot-access | page_added | howto | Manage GitHub Apps that use your organization&#x27;s Copilot - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/administer-copilot/view-impact-dashboard | page_changed | howto | Viewing the Copilot impact dashboard - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/cloud-and-local-sandboxes/configuring-local-sandbox-settings | page_changed | howto | Configuring local sandbox settings - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-cli | page_changed | howto | GitHub Copilot CLI - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/add-mcp-servers | page_changed | howto | Adding MCP servers for GitHub Copilot CLI - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/steer-remotely | page_changed | howto | Steering a GitHub Copilot CLI session from another device - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-sdk/auth/server-to-server-tokens | page_changed | howto | Server-to-server authentication - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/changing-tools | page_added | howto | Changing tools during a session - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/client-info | page_changed | howto | Client info - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/context-management | page_changed | howto | Context clearing and terminal tools - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/customization-locations | page_added | howto | Customization discovery locations - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/hooks | page_changed | howto | Working with hooks - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/mcp | page_changed | howto | Using MCP servers with the GitHub Copilot SDK - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/session-limits | page_changed | howto | Session limits - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/session-persistence | page_changed | howto | Session resume and persistence - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/skills | page_changed | howto | Custom skills - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/usage-and-billing | page_changed | howto | Usage and billing metrics - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-sdk/hooks/user-prompt-submitted | page_changed | howto | User prompt submitted hook - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-sdk/hooks/user-prompt-transformed | page_changed | howto | User prompt transformed hook - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-sdk/observability/opentelemetry | page_changed | howto | OpenTelemetry instrumentation for Copilot SDK - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-sdk/setup/azure-managed-identity | page_changed | howto | Azure Managed Identity with BYOK - GitHub Docs |
+| https://docs.github.com/en/copilot/how-tos/copilot-sdk/setup/in-process-runtime | page_changed | howto | Run the Copilot runtime in process - GitHub Docs |
+| https://docs.github.com/en/copilot/tutorials/customization-library/prompt-files/generate-unit-tests | page_removed | tutorial | Generate unit tests - GitHub Docs |
 
 ## Notes
 
