@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-11-09T11:24:30.628Z",
+  "featureChanges": [],
+  "pageChanges": [
+    {
+      "url": "https://docs.github.com/en/copilot/concepts/models/bring-your-own-key",
+      "changeType": "page_changed",
+      "category": "feature_detail",
+      "title": "Bring your own key for GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/get-started/enterprise-ai-governance",
+      "changeType": "page_changed",
+      "category": "feature_catalog",
+      "title": "Adopting GitHub Copilot in your enterprise - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-enterprise-policies",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Managing policies and features for GitHub Copilot in your enterprise - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/configure-content-exclusion/exclude-content-from-copilot",
+      "changeType": "page_changed",
+      "category": "howto",
+      "title": "Excluding content from GitHub Copilot - GitHub Docs"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/reference/copilot-billing/azure-billing",
+      "changeType": "page_changed",
+      "category": "reference",
+      "title": "GitHub Copilot billing through Azure - GitHub Docs"
+    }
+  ]
+}
